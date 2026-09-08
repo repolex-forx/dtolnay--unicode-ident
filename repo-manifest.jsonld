@@ -99,8 +99,9 @@
     {
       "@id": "https://repolex.ai/r/dtolnay/unicode-ident/commit/22456b4ace5f3eb45737b42966accc3ca59aa568",
       "git:hexsha": "22456b4ace5f3eb45737b42966accc3ca59aa568",
-      "repolex:parseStatus": "pending",
-      "git:tagName": "1.0.21"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "1.0.21",
+      "repolex:parsedAt": "2026-09-08T19:01:27.955175+00:00"
     },
     {
       "@id": "https://repolex.ai/r/dtolnay/unicode-ident/commit/10d5e534c9e06fffcdc6896d4779ffb25641659b",
